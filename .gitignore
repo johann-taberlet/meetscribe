@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Pipeline output
+output_*/
+meeting_*/
+
+# Test data
+test/
+test_*.mov
+test_*.mp4
+test_*.wav
+test_*.opus
+
+# macOS
+.DS_Store
